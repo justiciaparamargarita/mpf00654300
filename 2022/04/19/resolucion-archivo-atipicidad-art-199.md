@@ -1,8 +1,10 @@
 ---
 fecha: "2022-04-19"
 expediente: "MPF00654300"
+firma_digital: "no"
+fecha_creacion_pdf: "2022-04-20T15:45:32-03"
 ---
-# Resolucion Archivo Atipicidad Art 199
+# Resolución: archivo por atipicidad (Art. 199)
 
 ## Texto del Documento (pdftotext)
 
