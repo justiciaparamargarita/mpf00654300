@@ -33,3 +33,12 @@ El 25/2/22 a las 10:02, Maria Jose Cavallari escribió:
 > *Ministerio Público Fiscal C.A.B.A*
 > 
 > *Av. Paseo Colón 1333 - Piso 3º  Frente*
+> 
+> ------------------------------------------------------------------------
+> El 18/2/22 a las 13:36, Centro de Proteccion De Datos Personales escribió:
+>> Estimado, en el día de ayer hemos recibido está respuesta de parte del 
+>> Hospital, atento que la misma no responde a lo solicitado de manera 
+>> acabado estamos enviando un nuevo oficio solicitando explicaciones de ello.
+>> Atte.
+>> 
+>> Centro de Protección de Datos Personales

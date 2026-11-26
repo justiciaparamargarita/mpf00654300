@@ -27,3 +27,15 @@ El 18/2/22 a las 13:36, Centro de Proteccion De Datos Personales escribió:
 > Atte.
 > 
 > Centro de Protección de Datos Personales
+> 
+> ------------------------------------------------------------------------
+> El 11/2/22 a las 10:29, Centro de Proteccion De Datos Personales escribió:
+>  > Sr. Nicolás Kosciuk: tomamos nota de la información proporcionada para
+>  > ser agregada a la actuación.
+>  >
+>  > Le hacemos saber que nos encontramos a la espera de la respuesta por
+>  > parte del Hospital del oficio ampliatorio.
+>  >
+>  > Atte.
+>  >
+>  > Equipo del Centro de Protección de Datos Personales
