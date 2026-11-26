@@ -8,6 +8,7 @@ para: "cpdp@defensoria.org.ar, fiscaliapcyf40@fiscalias.gob.ar"
 cc: "kuchasky@gmail.com"
 asunto: "Re: MPF 654300 - CCC"
 hilo: "e2707"
+responde_a: "e2856"
 origen_email: "fuentes/emails/justiciaparamargarita.ar/2022-02/ccc.e2711.eml"
 sha256: "557bbe021d403d4efc486d7a2611815f04bb05d732ce740a7f08137731485e1b"
 ---
@@ -21,12 +22,3 @@ Podria hacer la denuncia por robo? Y acusar al MPF de haberlo hecho. El robo va 
 Si la Fiscalia 40 me puede explicar que estan haciendo seria genial, ya consiguieron el original? Cuando lo pidieron? Raro eh...
 
 Gracias.
-
-El 18/2/22 a las 13:36, Centro de Proteccion De Datos Personales escribió:
-> Estimado, en el día de ayer hemos recibido está respuesta de parte del 
-> Hospital, atento que la misma no responde a lo solicitado de manera 
-> acabado estamos enviando un nuevo oficio solicitando explicaciones de ello.
-> Atte.
-> 
-> Centro de Protección de Datos Personales
->
